@@ -15,3 +15,6 @@ C:\Users\boris\Desktop\WindowsFormsApplication\WindowsFormsApplication15\obj\Deb
 C:\Users\boris\Desktop\WindowsFormsApplication\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
 C:\Users\boris\Desktop\WindowsFormsApplication\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
 C:\Users\boris\Desktop\WindowsFormsApplication\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\boris\Documents\324\WindowsFormsApplication\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\boris\Documents\324\WindowsFormsApplication\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\boris\Documents\324\WindowsFormsApplication\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
